@@ -10,7 +10,7 @@ on:
       agent_description:
         description: 'madodo'
         required: true
-        default: 'madodo AI Agent'
+        default: 'madodo'
 
 jobs:
   verify:
